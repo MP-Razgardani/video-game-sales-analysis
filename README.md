@@ -66,17 +66,18 @@ jupyter notebook notebooks/video_game_sales_eda.ipynb
 
 ```
 video-game-sales-analysis/
-├── README.md
-├── requirements.txt
 ├── data/
 │   └── video_games_sales.csv
-├── notebooks/
-│   └── video_game_sales_eda.ipynb
 └── images/
     ├── best_selling_genres.png
     ├── top_10_games.png
     ├── sales_by_year.png
     └── correlation_heatmap.png
+├── notebooks/
+│   └── video_game_sales_eda.ipynb
+├── README.md
+├── requirements.txt
+
 ```
 
 ## 👤 Author
