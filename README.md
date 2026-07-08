@@ -70,9 +70,9 @@ video-game-sales-analysis/
 │   └── video_games_sales.csv
 └── images/
     ├── best_selling_genres.png
-    ├── top_10_games.png
+    ├── correlation_heatmap.png
     ├── sales_by_year.png
-    └── correlation_heatmap.png
+    └── top_10_games.png
 ├── notebooks/
 │   └── video_game_sales_eda.ipynb
 ├── README.md
